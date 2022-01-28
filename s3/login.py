@@ -13,9 +13,9 @@ chrome_options.add_argument("--disable-popup-blocking")
 wd=webdriver.Chrome(chrome_options=chrome_options)
 
 
-username = "admin"
-password = "Jeelpatel@212121"
-login_url = "https://newstheme.krahatfoundation.org/wp-login.php/"
+username = "Your Wordpres Username"
+password = "Your Wordpress Password"
+login_url = "Your Wordpress Site Address"
 
 
 def login():
