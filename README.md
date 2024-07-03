@@ -1,6 +1,21 @@
-# Wordpress Automation with NLP and AI
-It is basically a Wordpress bot which scraps the news data from various site like Hindustan Times, NDTV etc and paraphrase it using paraphrase API which was hosted on digital ocean. Then it will open Wordpress admin step by step and perform on its own. We can directly go and watch the site in which the news or blogs will be updated. It has been some time since I created this project so maybe xpaths have been changed. 
+# WPInsight Automator
+'WPInsight Automator' is an intelligent WordPress bot seamlessly blending Natural Language Processing (NLP) and Artificial Intelligence (AI) to revolutionize content management. This project combines advanced technologies to extract, paraphrase, and automate tasks within the WordPress ecosystem, ensuring a dynamic and constantly updated website.
+Key Features
 
-Moreover, it contains different libs and tools that are used for the quality purpose and apart from that it contains ML and NLP based tool for paragraph paraphrasing.
+1. News Extraction :</b> WPInsight Automator scrapes news information from reputable sources like Hindustan Times, NDTV, and more.
+Adaptable to changes : Utilizes dynamic scraping techniques to adjust to variations in website structures.
+2. Paraphrasing with AI : Employs an API hosted on Digital Ocean for sophisticated paraphrasing, ensuring content uniqueness.Enhances readability and originality, contributing to a more engaging user experience.
+3. Automated WordPress Admin Tasks : Manages the WordPress admin autonomously, handling various tasks including post creation, deletion, and status changes. Ensures seamless and efficient content management, reducing manual intervention.
+4. Plagiarized Content Updates : Regularly updates the website with news and blog posts, guaranteeing information integrity and originality. Employs anti-plagiarism measures to maintain content authenticity.
+5. Comprehensive Post-Management : Handles a range of post-management tasks, including deleting, uploading, and changing post statuses. Provides robust tools for effective content organization and maintenance.
+6. File Management and SEO Integration : Manages file uploads seamlessly, ensuring multimedia elements complement the textual content. Implements Basic SEO techniques through integration with the Rank Math SEO plugin, enhancing the website's search engine visibility.)
 
-It also contains some files which are used in wordpress automation such as File uploading, Blog writing, Basic SEO (Rank Math SEO plugin), Post management (Including Deleting post uploading post and status changing).
+Tech Stack Used:
+- Selenium
+- Numpy
+- Tkinter
+- math
+- smtplib
+- Transformers
+- PyTorch
+- MySQL
