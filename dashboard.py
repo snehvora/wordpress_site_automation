@@ -131,7 +131,7 @@ def dashboard():
     print("Send Request For Login...")
     s.starttls()
     print("Hand Saking")
-    s.login("sneh.vora135@gmail.com", "123456sneh")
+    s.login("s...@gmail.com", "P...d")
     print("Login...")
     message = """\
     Subject: Site Problem Detection
